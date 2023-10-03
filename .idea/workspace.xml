@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8bd2c72-67cc-4efc-bc81-25279f178b3f" name="Changes" comment="" />
+    <list default="true" id="b8bd2c72-67cc-4efc-bc81-25279f178b3f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,23 +23,65 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2VzNdj3sX0UA3pB8w5pSZnXs87q" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "onboarding.tips.debug.path": "C:/Users/ssamu/OneDrive/Desktop/Tel-Ran Study/samuliouTelranPro/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ssamu/OneDrive/Desktop/Tel-Ran Study/samuliouTelranPro/src/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.com.telran.org.lessontwo.homeworktwo.Program">
+    <configuration name="Hippodrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessontwo.Hippodrome" />
+      <module name="samuliouTelranPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.org.lessontwo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LessonOneApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonone.LessonOneApp" />
+      <module name="samuliouTelranPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.org.lessonone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LessonTwoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessontwo.LessonTwoApp" />
+      <module name="samuliouTelranPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.org.lessontwo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonone.homeworkone.Program" />
       <module name="samuliouTelranPro" />
@@ -50,8 +95,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.telran.org.lessontwo.homeworktwo.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessontwo.homeworktwo.Program" />
+      <module name="samuliouTelranPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.org.lessontwo.homeworktwo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.telran.org.lessontwo.homeworktwo.Program" />
+        <item itemvalue="Application.Hippodrome" />
+        <item itemvalue="Application.LessonTwoApp" />
+        <item itemvalue="Application.LessonOneApp" />
         <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>

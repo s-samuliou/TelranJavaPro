@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8bd2c72-67cc-4efc-bc81-25279f178b3f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -42,7 +42,20 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ssamu/OneDrive/Desktop/Tel-Ran Study/samuliouTelranPro/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.com.telran.org.lessontwo.homeworktwo.Program">
+  <component name="RunManager" selected="Application.Program">
+    <configuration name="AnimalApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonthree.AnimalApp" />
+      <module name="samuliouTelranPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.org.lessonthree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Hippodrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.telran.org.lessontwo.Hippodrome" />
       <module name="samuliouTelranPro" />
@@ -56,25 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LessonOneApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonone.LessonOneApp" />
+    <configuration name="PartyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonthree.party.PartyApp" />
       <module name="samuliouTelranPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telran.org.lessonone.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LessonTwoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessontwo.LessonTwoApp" />
-      <module name="samuliouTelranPro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.telran.org.lessontwo.*" />
+          <option name="PATTERN" value="com.telran.org.lessonthree.party.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,11 +83,11 @@
       </method>
     </configuration>
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonone.homeworkone.Program" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonthree.homeworkthree.Program" />
       <module name="samuliouTelranPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telran.org.lessonone.homeworkone.*" />
+          <option name="PATTERN" value="com.telran.org.lessonthree.homeworkthree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.PartyApp" />
+        <item itemvalue="Application.AnimalApp" />
         <item itemvalue="Application.com.telran.org.lessontwo.homeworktwo.Program" />
         <item itemvalue="Application.Hippodrome" />
-        <item itemvalue="Application.LessonTwoApp" />
-        <item itemvalue="Application.LessonOneApp" />
-        <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
   </component>

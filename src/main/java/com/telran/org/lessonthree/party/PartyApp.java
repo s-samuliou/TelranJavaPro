@@ -5,14 +5,10 @@ public class PartyApp {
     public static void main(String[] args) {
         Guest alex = new Man("Alex", 45);
         Guest oleg = new Man("Oleg", 20);
-
         Guest alla = new Women("Alla", 20);
         Guest maria = new Women("Maria", 30);
-
         Guest maxim = new Child("Maxim", "M", 9);
-
         Guest nik = new GrandFather("Nik", 999);
-
 
         Guest[] guests = {alex, oleg, alla, maria, maxim, nik};
 

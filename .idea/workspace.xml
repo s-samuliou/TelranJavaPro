@@ -43,20 +43,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ssamu/OneDrive/Desktop/Tel-Ran Study/samuliouTelranPro/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.com.telran.org.lessonfive.homeworkfive.SeaBattle">
-    <configuration name="AppArrayTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonfive.AppArrayTwo" />
-      <module name="samuliouTelranPro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.telran.org.lessonfive.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Program">
     <configuration name="Deal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonfour.homeworkfour.Deal" />
       <module name="samuliouTelranPro" />
@@ -70,12 +57,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IteratorAppExampleFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonseven.IteratorAppExampleFive" />
+      <module name="samuliouTelranPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.org.lessonseven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IteratorAppExampleFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonseven.IteratorAppExampleFour" />
+      <module name="samuliouTelranPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.org.lessonseven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonfour.homeworkfour.Program" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonsix.homeworksix.Program" />
       <module name="samuliouTelranPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telran.org.lessonfour.homeworkfour.*" />
+          <option name="PATTERN" value="com.telran.org.lessonsix.homeworksix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,25 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeaBattle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonfive.SeaBattle" />
+    <configuration name="TestMyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessoneight.TestMyLinkedList" />
       <module name="samuliouTelranPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telran.org.lessonfive.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.telran.org.lessonfive.homeworkfive.SeaBattle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonfive.homeworkfive.SeaBattle" />
-      <module name="samuliouTelranPro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.telran.org.lessonfive.homeworkfive.*" />
+          <option name="PATTERN" value="com.telran.org.lessoneight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.telran.org.lessonfive.homeworkfive.SeaBattle" />
-        <item itemvalue="Application.Deal" />
         <item itemvalue="Application.Program" />
-        <item itemvalue="Application.SeaBattle" />
-        <item itemvalue="Application.AppArrayTwo" />
+        <item itemvalue="Application.TestMyLinkedList" />
+        <item itemvalue="Application.Deal" />
+        <item itemvalue="Application.IteratorAppExampleFive" />
+        <item itemvalue="Application.IteratorAppExampleFour" />
       </list>
     </recent_temporary>
   </component>

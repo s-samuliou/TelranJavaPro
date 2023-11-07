@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b8bd2c72-67cc-4efc-bc81-25279f178b3f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonfourAdd/LessonAdd.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -43,39 +44,13 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ssamu/OneDrive/Desktop/Tel-Ran Study/samuliouTelranPro/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.com.telran.org.lessonseven.homeworkseven.Program">
-    <configuration name="Deal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonfour.homeworkfour.Deal" />
-      <module name="samuliouTelranPro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.telran.org.lessonfour.homeworkfour.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IteratorAppExampleFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonseven.IteratorAppExampleFive" />
-      <module name="samuliouTelranPro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.telran.org.lessonseven.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonsix.homeworksix.Program" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonten.homeworkten.Program" />
       <module name="samuliouTelranPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telran.org.lessonsix.homeworksix.*" />
+          <option name="PATTERN" value="com.telran.org.lessonten.homeworkten.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessoneight.TestMyLinkedList" />
+    <configuration name="SOFExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessoneleven.SOFExample" />
       <module name="samuliouTelranPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telran.org.lessoneight.*" />
+          <option name="PATTERN" value="com.telran.org.lessoneleven.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +71,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.telran.org.lessonseven.homeworkseven.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonseven.homeworkseven.Program" />
+    <configuration name="SortObjectExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonten.SortObjectExample" />
       <module name="samuliouTelranPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telran.org.lessonseven.homeworkseven.*" />
+          <option name="PATTERN" value="com.telran.org.lessonten.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessoneleven.StackExample" />
+      <module name="samuliouTelranPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.org.lessoneleven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessoneleven.StackTask" />
+      <module name="samuliouTelranPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.org.lessoneleven.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.telran.org.lessonseven.homeworkseven.Program" />
         <item itemvalue="Application.Program" />
-        <item itemvalue="Application.TestMyLinkedList" />
-        <item itemvalue="Application.Deal" />
-        <item itemvalue="Application.IteratorAppExampleFive" />
+        <item itemvalue="Application.StackTask" />
+        <item itemvalue="Application.SOFExample" />
+        <item itemvalue="Application.StackExample" />
+        <item itemvalue="Application.SortObjectExample" />
       </list>
     </recent_temporary>
   </component>

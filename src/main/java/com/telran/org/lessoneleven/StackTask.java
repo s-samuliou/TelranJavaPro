@@ -27,6 +27,5 @@ public class StackTask {
         }
 
         System.out.println(stack);
-
     }
 }

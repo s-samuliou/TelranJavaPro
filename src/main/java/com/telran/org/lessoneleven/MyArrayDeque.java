@@ -10,7 +10,7 @@ public class MyArrayDeque implements MyDeque{
     private int countOfElements;
 
     public MyArrayDeque() {
-        this.elements = new Integer[DEFAULT_CAPACITY];
+        elements = new Integer[DEFAULT_CAPACITY];
     }
 
     @Override
@@ -39,7 +39,7 @@ public class MyArrayDeque implements MyDeque{
     }
 
     @Override
-    public Integer peakHead() {
+    public Integer peekHead() {
         return null;
     }
 
@@ -49,6 +49,6 @@ public class MyArrayDeque implements MyDeque{
     }
 
     private void grow() {
-        //elements * 1,5
+        // elements * 1.5
     }
 }

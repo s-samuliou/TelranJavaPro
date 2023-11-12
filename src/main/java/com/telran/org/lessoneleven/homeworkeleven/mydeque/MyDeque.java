@@ -1,4 +1,4 @@
-package com.telran.org.lessoneleven;
+package com.telran.org.lessoneleven.homeworkeleven.mydeque;
 
 public interface MyDeque {
     void addToHead(Integer element);
@@ -8,5 +8,4 @@ public interface MyDeque {
     Integer removeTail();
     Integer peekHead();
     Integer peekTail();
-
 }

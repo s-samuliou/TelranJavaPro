@@ -10,7 +10,7 @@ public class TestPredicate {
     public static void main(String[] args) {
         List<User> users = Arrays.asList(
                 new User("Alex", "Admin", 32),
-                new User("Olrg", "Member", 22),
+                new User("Oleg", "Member", 22),
                 new User("Maxim", "Member", 32)
         );
 

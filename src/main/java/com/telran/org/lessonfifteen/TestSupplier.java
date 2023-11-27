@@ -7,6 +7,7 @@ public class TestSupplier {
         Supplier<Double> randomValue = () -> Math.random();
 
         Double aDouble = randomValue.get();
-        System.out.println(aDouble);
+        System.out.println(randomValue.get());
+        System.out.println(randomValue.get());
     }
 }

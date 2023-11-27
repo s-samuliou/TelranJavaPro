@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8bd2c72-67cc-4efc-bc81-25279f178b3f" name="Changes" comment="lesson 16-17">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonfifteen/TestPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonfifteen/TestPredicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonfifteen/TestSupplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonfifteen/TestSupplier.java" afterDir="false" />
+    <list default="true" id="b8bd2c72-67cc-4efc-bc81-25279f178b3f" name="Changes" comment="homework fifteen">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonfifteen/homeworkfifteen/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonfifteen/homeworkfifteen/Startup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonfifteen/homeworkfifteen/bookdata/Author.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonfifteen/homeworkfifteen/bookdata/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonfifteen/homeworkfifteen/bookdata/Publisher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonfifteen/homeworkfifteen/initializer/Initializer.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +29,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "s-samuliou"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="714e03af-c024-480f-a3ab-5d5be9f50d38" />
+        <option name="url" value="https://github.com/s-samuliou/TelranJavaPro.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -50,7 +69,7 @@
       <recent name="C:\Users\ssamu\OneDrive\Desktop\Tel-Ran Study\samuliouTelranPro\src\main\java\com\telran\org\lessonfifteen\homeworkfifteen" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.telran.org.lessonten.homeworkten.Program">
+  <component name="RunManager" selected="Application.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonfifteen.homeworkfifteen.Program" />
       <module name="samuliouTelranPro" />
@@ -118,8 +137,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.telran.org.lessonten.homeworkten.Program" />
         <item itemvalue="Application.Program" />
+        <item itemvalue="Application.com.telran.org.lessonten.homeworkten.Program" />
         <item itemvalue="Application.TestStreamTerminal" />
         <item itemvalue="Application.TestStreamAPITwo" />
         <item itemvalue="Application.TestStreamAPI" />
@@ -143,12 +162,21 @@
       <option name="project" value="LOCAL" />
       <updated>1701105814359</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="homework fifteen">
+      <option name="closed" value="true" />
+      <created>1701105926979</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701105926979</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lesson 16-17" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 16-17" />
+    <MESSAGE value="homework fifteen" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework fifteen" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8bd2c72-67cc-4efc-bc81-25279f178b3f" name="Changes" comment="homework fifteen">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonfifteen/homeworkfifteen/Program.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonfifteen/homeworkfifteen/Startup.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonfifteen/homeworkfifteen/bookdata/Author.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonfifteen/homeworkfifteen/bookdata/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonfifteen/homeworkfifteen/bookdata/Publisher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonfifteen/homeworkfifteen/initializer/Initializer.java" beforeDir="false" />
-    </list>
+    <list default="true" id="b8bd2c72-67cc-4efc-bc81-25279f178b3f" name="Changes" comment="delete 15 homework" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +59,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ssamu\OneDrive\Desktop\Tel-Ran Study\samuliouTelranPro\src\main\java\com\telran\org\lessonfifteen\homeworkfifteen" />
+      <recent name="C:\Users\ssamu\OneDrive\Desktop\Tel-Ran Study\samuliouTelranPro\src\main\java\com\telran\org\lessonfifteen" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Program">
@@ -170,13 +163,22 @@
       <option name="project" value="LOCAL" />
       <updated>1701105926979</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="delete 15 homework">
+      <option name="closed" value="true" />
+      <created>1701106221445</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701106221445</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lesson 16-17" />
     <MESSAGE value="homework fifteen" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework fifteen" />
+    <MESSAGE value="delete 15 homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete 15 homework" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

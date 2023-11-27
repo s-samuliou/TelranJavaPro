@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b8bd2c72-67cc-4efc-bc81-25279f178b3f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonfifteen/TestPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonfifteen/TestPredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonfifteen/TestSupplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonfifteen/TestSupplier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonten/homeworkten/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonten/homeworkten/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,17 +43,22 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ssamu/OneDrive/Desktop/Tel-Ran Git&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ssamu/OneDrive/Desktop/Tel-Ran Study/samuliouTelranPro/src/main/java/com/telran/org/lessonfifteen/homeworkfifteen&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ssamu/OneDrive/Desktop/Tel-Ran Study/samuliouTelranPro/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Program">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ssamu\OneDrive\Desktop\Tel-Ran Study\samuliouTelranPro\src\main\java\com\telran\org\lessonfifteen\homeworkfifteen" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.com.telran.org.lessonten.homeworkten.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessontwelve.homeworktwelve.Program" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonfifteen.homeworkfifteen.Program" />
       <module name="samuliouTelranPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telran.org.lessontwelve.homeworktwelve.taskone.*" />
+          <option name="PATTERN" value="com.telran.org.lessonfifteen.homeworkfifteen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonfifteen.TestConsumer" />
+    <configuration name="TestStreamAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonseventeen.TestStreamAPI" />
       <module name="samuliouTelranPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telran.org.lessonfifteen.*" />
+          <option name="PATTERN" value="com.telran.org.lessonseventeen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonfifteen.TestFunction" />
+    <configuration name="TestStreamAPITwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonseventeen.TestStreamAPITwo" />
       <module name="samuliouTelranPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telran.org.lessonfifteen.*" />
+          <option name="PATTERN" value="com.telran.org.lessonseventeen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPredicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonfifteen.TestPredicate" />
+    <configuration name="TestStreamTerminal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonseventeen.TestStreamTerminal" />
       <module name="samuliouTelranPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telran.org.lessonfifteen.*" />
+          <option name="PATTERN" value="com.telran.org.lessonseventeen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSupplier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonfifteen.TestSupplier" />
+    <configuration name="com.telran.org.lessonten.homeworkten.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonten.homeworkten.Program" />
       <module name="samuliouTelranPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telran.org.lessonfifteen.*" />
+          <option name="PATTERN" value="com.telran.org.lessonten.homeworkten.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.telran.org.lessonten.homeworkten.Program" />
         <item itemvalue="Application.Program" />
-        <item itemvalue="Application.TestSupplier" />
-        <item itemvalue="Application.TestFunction" />
-        <item itemvalue="Application.TestPredicate" />
-        <item itemvalue="Application.TestConsumer" />
+        <item itemvalue="Application.TestStreamTerminal" />
+        <item itemvalue="Application.TestStreamAPITwo" />
+        <item itemvalue="Application.TestStreamAPI" />
       </list>
     </recent_temporary>
   </component>

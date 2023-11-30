@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8bd2c72-67cc-4efc-bc81-25279f178b3f" name="Changes" comment="homework fifteen">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b8bd2c72-67cc-4efc-bc81-25279f178b3f" name="Changes" comment="homework sixteen">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonsixteen/homeworksixteen/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonsixteen/homeworksixteen/SearchEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonsixteen/homeworksixteen/Startup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonsixteen/homeworksixteen/enums/IntegerOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonsixteen/homeworksixteen/enums/StringOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonsixteen/homeworksixteen/initializer/Initializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonsixteen/homeworksixteen/predicates/IntegerPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonsixteen/homeworksixteen/predicates/StringPredicate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,14 +188,33 @@
       <option name="project" value="LOCAL" />
       <updated>1701106530329</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="lesson eighteen">
+      <option name="closed" value="true" />
+      <created>1701366293847</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701366293847</updated>
+    </task>
+    <task id="LOCAL-00006" summary="lesson eighteen add">
+      <option name="closed" value="true" />
+      <created>1701366344963</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701366344963</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lesson 16-17" />
     <MESSAGE value="delete 15 homework" />
     <MESSAGE value="homework fifteen" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework fifteen" />
+    <MESSAGE value="lesson eighteen" />
+    <MESSAGE value="lesson eighteen add" />
+    <MESSAGE value="homework sixteen" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework sixteen" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

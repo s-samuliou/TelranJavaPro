@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8bd2c72-67cc-4efc-bc81-25279f178b3f" name="Changes" comment="lesson nineteen">
+    <list default="true" id="b8bd2c72-67cc-4efc-bc81-25279f178b3f" name="Changes" comment="homework seventeen">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +16,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -64,7 +64,7 @@
       <recent name="C:\Users\ssamu\OneDrive\Desktop\Tel-Ran Study\samuliouTelranPro\src\main\java\com\telran\org\lessonfifteen" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program">
+  <component name="RunManager" selected="Application.com.telran.org.lessoneighteen.homeworkeighteen.Program">
     <configuration name="BufferFileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonnineteen.BufferFileTest" />
       <module name="samuliouTelranPro" />
@@ -80,19 +80,6 @@
     </configuration>
     <configuration name="BufferInputList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonnineteen.BufferInputList" />
-      <module name="samuliouTelranPro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.telran.org.lessonnineteen.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileReadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonnineteen.FileReadTest" />
       <module name="samuliouTelranPro" />
       <extension name="coverage">
         <pattern>
@@ -130,13 +117,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.telran.org.lessoneighteen.homeworkeighteen.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessoneighteen.homeworkeighteen.Program" />
+      <module name="samuliouTelranPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.org.lessoneighteen.homeworkeighteen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.telran.org.lessoneighteen.homeworkeighteen.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.FileTest" />
         <item itemvalue="Application.BufferFileTest" />
         <item itemvalue="Application.BufferInputList" />
-        <item itemvalue="Application.FileReadTest" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +213,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701705012608</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="homework seventeen">
+      <option name="closed" value="true" />
+      <created>1701708905756</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1701708905756</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -224,7 +232,8 @@
     <MESSAGE value="lesson eighteen add" />
     <MESSAGE value="homework sixteen" />
     <MESSAGE value="lesson nineteen" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson nineteen" />
+    <MESSAGE value="homework seventeen" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework seventeen" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8bd2c72-67cc-4efc-bc81-25279f178b3f" name="Changes" comment="homework sixteen">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonsixteen/homeworksixteen/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonsixteen/homeworksixteen/SearchEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonsixteen/homeworksixteen/Startup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonsixteen/homeworksixteen/enums/IntegerOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonsixteen/homeworksixteen/enums/StringOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonsixteen/homeworksixteen/initializer/Initializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonsixteen/homeworksixteen/predicates/IntegerPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/org/lessonsixteen/homeworksixteen/predicates/StringPredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,13 +64,13 @@
       <recent name="C:\Users\ssamu\OneDrive\Desktop\Tel-Ran Study\samuliouTelranPro\src\main\java\com\telran\org\lessonfifteen" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SearchEngine">
-    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessoneighteen.task.EmployeeTest" />
+  <component name="RunManager" selected="Application.FileTest">
+    <configuration name="BufferFileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonnineteen.BufferFileTest" />
       <module name="samuliouTelranPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telran.org.lessoneighteen.task.*" />
+          <option name="PATTERN" value="com.telran.org.lessonnineteen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchEngine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonsixteen.homeworksixteen.SearchEngine" />
+    <configuration name="BufferInputList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonnineteen.BufferInputList" />
       <module name="samuliouTelranPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telran.org.lessonsixteen.homeworksixteen.enums.*" />
+          <option name="PATTERN" value="com.telran.org.lessonnineteen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringAppTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessoneighteen.StringAppTest" />
+    <configuration name="FileReadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonnineteen.FileReadTest" />
       <module name="samuliouTelranPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telran.org.lessoneighteen.*" />
+          <option name="PATTERN" value="com.telran.org.lessonnineteen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentAppTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessoneighteen.StudentAppTest" />
+    <configuration name="FileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonnineteen.FileTest" />
       <module name="samuliouTelranPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telran.org.lessoneighteen.*" />
+          <option name="PATTERN" value="com.telran.org.lessonnineteen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestItem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessoneighteen.TestItem" />
+    <configuration name="IOStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonnineteen.IOStreamTest" />
       <module name="samuliouTelranPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telran.org.lessoneighteen.*" />
+          <option name="PATTERN" value="com.telran.org.lessonnineteen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SearchEngine" />
-        <item itemvalue="Application.EmployeeTest" />
-        <item itemvalue="Application.TestItem" />
-        <item itemvalue="Application.StringAppTest" />
-        <item itemvalue="Application.StudentAppTest" />
+        <item itemvalue="Application.FileTest" />
+        <item itemvalue="Application.BufferFileTest" />
+        <item itemvalue="Application.BufferInputList" />
+        <item itemvalue="Application.FileReadTest" />
+        <item itemvalue="Application.IOStreamTest" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701366344963</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="homework sixteen">
+      <option name="closed" value="true" />
+      <created>1701366401207</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1701366401207</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

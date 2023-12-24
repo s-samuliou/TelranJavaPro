@@ -67,13 +67,13 @@
       <recent name="C:\Users\ssamu\OneDrive\Desktop\Tel-Ran Study\samuliouTelranPro\src\main\java\com\telran\org\lessontwenty\task" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.telran.org.lessontwentyone.homeworktwentyone.Program">
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessonnineteen.homeworknineteen.Program" />
+  <component name="RunManager" selected="Application.TestExcp">
+    <configuration name="GenericMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.twentytwo.GenericMethodTest" />
       <module name="samuliouTelranPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telran.org.lessonnineteen.homeworknineteen.*" />
+          <option name="PATTERN" value="com.telran.org.twentytwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestIp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessontwentyone.TestIp" />
+    <configuration name="GenericTestApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.twentytwo.GenericTestApp" />
       <module name="samuliouTelranPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telran.org.lessontwentyone.*" />
+          <option name="PATTERN" value="com.telran.org.twentytwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMatcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessontwentyone.TestMatcher" />
+    <configuration name="TestExcp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.twentythree.exceptiontest.TestExcp" />
       <module name="samuliouTelranPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telran.org.lessontwentyone.*" />
+          <option name="PATTERN" value="com.telran.org.twentythree.exceptiontest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSplit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessontwentyone.TestSplit" />
+    <configuration name="TestGenericTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.twentytwo.TestGenericTwo" />
       <module name="samuliouTelranPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telran.org.lessontwentyone.*" />
+          <option name="PATTERN" value="com.telran.org.twentytwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.telran.org.lessontwentyone.homeworktwentyone.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.telran.org.lessontwentyone.homeworktwentyone.Program" />
+    <configuration name="TestWildCard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.twentythree.TestWildCard" />
       <module name="samuliouTelranPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telran.org.lessontwentyone.homeworktwentyone.*" />
+          <option name="PATTERN" value="com.telran.org.twentythree.exceptiontest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.telran.org.lessontwentyone.homeworktwentyone.Program" />
-        <item itemvalue="Application.TestIp" />
-        <item itemvalue="Application.Program" />
-        <item itemvalue="Application.TestSplit" />
-        <item itemvalue="Application.TestMatcher" />
+        <item itemvalue="Application.TestExcp" />
+        <item itemvalue="Application.TestWildCard" />
+        <item itemvalue="Application.GenericMethodTest" />
+        <item itemvalue="Application.GenericTestApp" />
+        <item itemvalue="Application.TestGenericTwo" />
       </list>
     </recent_temporary>
   </component>

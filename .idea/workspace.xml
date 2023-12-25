@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8bd2c72-67cc-4efc-bc81-25279f178b3f" name="Changes" comment="homework nineteen">
+    <list default="true" id="b8bd2c72-67cc-4efc-bc81-25279f178b3f" name="Changes" comment="lessons 19, 22-23">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +67,7 @@
       <recent name="C:\Users\ssamu\OneDrive\Desktop\Tel-Ran Study\samuliouTelranPro\src\main\java\com\telran\org\lessontwenty\task" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestExcp">
+  <component name="RunManager" selected="Application.Program">
     <configuration name="GenericMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.telran.org.twentytwo.GenericMethodTest" />
       <module name="samuliouTelranPro" />
@@ -94,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestExcp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.telran.org.twentythree.exceptiontest.TestExcp" />
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.twentytwo.homework.Program" />
       <module name="samuliouTelranPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telran.org.twentythree.exceptiontest.*" />
+          <option name="PATTERN" value="com.telran.org.twentytwo.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestGenericTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.telran.org.twentytwo.TestGenericTwo" />
+    <configuration name="TestExcp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.org.twentythree.exceptiontest.TestExcp" />
       <module name="samuliouTelranPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telran.org.twentytwo.*" />
+          <option name="PATTERN" value="com.telran.org.twentythree.exceptiontest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program" />
         <item itemvalue="Application.TestExcp" />
         <item itemvalue="Application.TestWildCard" />
         <item itemvalue="Application.GenericMethodTest" />
         <item itemvalue="Application.GenericTestApp" />
-        <item itemvalue="Application.TestGenericTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702212637416</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="lessons 19, 22-23">
+      <option name="closed" value="true" />
+      <created>1703413346871</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1703413346871</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -263,7 +271,8 @@
     <MESSAGE value="homework eighteen" />
     <MESSAGE value="lesson 20-21" />
     <MESSAGE value="homework nineteen" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework nineteen" />
+    <MESSAGE value="lessons 19, 22-23" />
+    <option name="LAST_COMMIT_MESSAGE" value="lessons 19, 22-23" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
